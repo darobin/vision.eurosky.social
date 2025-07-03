@@ -1,6 +1,6 @@
 {
   "title": "EuroSky Vision",
-  "revisionId": "ALBJ4LspuEENIm1Jr0lkZ6xHFL7Q9u1C9ndR9JQnTWB4AnDEFCxsBhDMtgyO1rar8x0oKsnrzR02Bi312j_Jhw",
+  "revisionId": "ALBJ4Luok0jIXlKtXWUmM-3poI2pqXfRj9dTIPkmZr3fwOES5XRThOVwdls4tk_kYQLcnnTX7pBOzlEM4PkJsA",
   "suggestionsViewMode": "SUGGESTIONS_INLINE",
   "documentId": "1u79M9wpetGQKQodk_HIUR9f1ImqbJa76KaEGERZAe2A",
   "tabs": [
@@ -197,7 +197,7 @@
                 ],
                 "paragraphStyle": {
                   "headingId": "h.3pkh5znq3dh6",
-                  "namedStyleType": "HEADING_2",
+                  "namedStyleType": "HEADING_1",
                   "direction": "LEFT_TO_RIGHT"
                 }
               }
@@ -1522,33 +1522,33 @@
             },
             {
               "startIndex": 17217,
-              "endIndex": 17226,
+              "endIndex": 17230,
               "paragraph": {
                 "elements": [
                   {
                     "startIndex": 17217,
-                    "endIndex": 17226,
+                    "endIndex": 17230,
                     "textRun": {
-                      "content": "Approach\n",
+                      "content": "Our Approach\n",
                       "textStyle": {}
                     }
                   }
                 ],
                 "paragraphStyle": {
                   "headingId": "h.hnz2cxhnt6kf",
-                  "namedStyleType": "HEADING_2",
+                  "namedStyleType": "HEADING_1",
                   "direction": "LEFT_TO_RIGHT"
                 }
               }
             },
             {
-              "startIndex": 17226,
-              "endIndex": 17476,
+              "startIndex": 17230,
+              "endIndex": 17480,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 17226,
-                    "endIndex": 17476,
+                    "startIndex": 17230,
+                    "endIndex": 17480,
                     "textRun": {
                       "content": "Our goal is for social media to be good for the people who use it, to be compatible with democracy, and to support a thriving ecosystem of innovative businesses that are internationally competitive. This leads us to build from multiple requirements:\n",
                       "textStyle": {}
@@ -1562,21 +1562,21 @@
               }
             },
             {
-              "startIndex": 17476,
-              "endIndex": 17970,
+              "startIndex": 17480,
+              "endIndex": 17974,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 17476,
-                    "endIndex": 17487,
+                    "startIndex": 17480,
+                    "endIndex": 17491,
                     "textRun": {
                       "content": "We need to ",
                       "textStyle": {}
                     }
                   },
                   {
-                    "startIndex": 17487,
-                    "endIndex": 17517,
+                    "startIndex": 17491,
+                    "endIndex": 17521,
                     "textRun": {
                       "content": "replace social media consumer ",
                       "textStyle": {
@@ -1585,8 +1585,8 @@
                     }
                   },
                   {
-                    "startIndex": 17517,
-                    "endIndex": 17525,
+                    "startIndex": 17521,
+                    "endIndex": 17529,
                     "textRun": {
                       "content": "products",
                       "textStyle": {
@@ -1596,8 +1596,8 @@
                     }
                   },
                   {
-                    "startIndex": 17525,
-                    "endIndex": 17551,
+                    "startIndex": 17529,
+                    "endIndex": 17555,
                     "textRun": {
                       "content": " with shared social media ",
                       "textStyle": {
@@ -1606,8 +1606,8 @@
                     }
                   },
                   {
-                    "startIndex": 17551,
-                    "endIndex": 17565,
+                    "startIndex": 17555,
+                    "endIndex": 17569,
                     "textRun": {
                       "content": "infrastructure",
                       "textStyle": {
@@ -1617,8 +1617,8 @@
                     }
                   },
                   {
-                    "startIndex": 17565,
-                    "endIndex": 17623,
+                    "startIndex": 17569,
+                    "endIndex": 17627,
                     "textRun": {
                       "content": " that supports a greater multiplicity of consumer products",
                       "textStyle": {
@@ -1627,8 +1627,8 @@
                     }
                   },
                   {
-                    "startIndex": 17623,
-                    "endIndex": 17970,
+                    "startIndex": 17627,
+                    "endIndex": 17974,
                     "textRun": {
                       "content": ". Replacing Instagram or Twitter with a hypothetical European social media would achieve very little. Social media is too powerful to be concentrated in a single product no matter where that product is headquartered. An approach based on infrastructure allows us instead to open the way to an explosion of creativity in social media applications.\n",
                       "textStyle": {}
@@ -1657,21 +1657,21 @@
               }
             },
             {
-              "startIndex": 17970,
-              "endIndex": 18595,
+              "startIndex": 17974,
+              "endIndex": 18599,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 17970,
-                    "endIndex": 17981,
+                    "startIndex": 17974,
+                    "endIndex": 17985,
                     "textRun": {
                       "content": "We need to ",
                       "textStyle": {}
                     }
                   },
                   {
-                    "startIndex": 17981,
-                    "endIndex": 18095,
+                    "startIndex": 17985,
+                    "endIndex": 18099,
                     "textRun": {
                       "content": "break apart monolithic social media systems into independent operators with simpler, more focused responsibilities",
                       "textStyle": {
@@ -1680,8 +1680,8 @@
                     }
                   },
                   {
-                    "startIndex": 18095,
-                    "endIndex": 18595,
+                    "startIndex": 18099,
+                    "endIndex": 18599,
                     "textRun": {
                       "content": ". Legacy social media concentrates all functions into one big system: identity, data storage, feeds and curation, social graph, user interface are all bound together. This creates dependencies between these components that make the overall system hard to govern. Instead, we are building a system in which different components have clear and narrow responsibilities such that they are easy to govern, and those are then integrated into a comprehensive system thanks to open, interoperable protocols.\n",
                       "textStyle": {}
@@ -1710,21 +1710,21 @@
               }
             },
             {
-              "startIndex": 18595,
-              "endIndex": 19124,
+              "startIndex": 18599,
+              "endIndex": 19128,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 18595,
-                    "endIndex": 18603,
+                    "startIndex": 18599,
+                    "endIndex": 18607,
                     "textRun": {
                       "content": "We must ",
                       "textStyle": {}
                     }
                   },
                   {
-                    "startIndex": 18603,
-                    "endIndex": 18659,
+                    "startIndex": 18607,
+                    "endIndex": 18663,
                     "textRun": {
                       "content": "support global interoperability with strong subsidiarity",
                       "textStyle": {
@@ -1733,8 +1733,8 @@
                     }
                   },
                   {
-                    "startIndex": 18659,
-                    "endIndex": 19124,
+                    "startIndex": 18663,
+                    "endIndex": 19128,
                     "textRun": {
                       "content": " such that states may apply their own regulatory frameworks with full sovereignty while integrating into a global social internet. We achieve this by supporting interoperability at the protocol level — which describes how pieces of infrastructure operated by different entities work together — while simultaneously localising infrastructure in the relevant jurisdictions, subject to the relevant laws, and with the operational capacity to make their own decisions.\n",
                       "textStyle": {}
@@ -1763,21 +1763,21 @@
               }
             },
             {
-              "startIndex": 19124,
-              "endIndex": 19519,
+              "startIndex": 19128,
+              "endIndex": 19523,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 19124,
-                    "endIndex": 19131,
+                    "startIndex": 19128,
+                    "endIndex": 19135,
                     "textRun": {
                       "content": "We see ",
                       "textStyle": {}
                     }
                   },
                   {
-                    "startIndex": 19131,
-                    "endIndex": 19182,
+                    "startIndex": 19135,
+                    "endIndex": 19186,
                     "textRun": {
                       "content": "no need to choose between regulation and innovation",
                       "textStyle": {
@@ -1786,8 +1786,8 @@
                     }
                   },
                   {
-                    "startIndex": 19182,
-                    "endIndex": 19519,
+                    "startIndex": 19186,
+                    "endIndex": 19523,
                     "textRun": {
                       "content": ". By creating a content moderation commons at the infrastructure layer, we enable entrepreneurs to build systems that are compliant with the applicable jurisdictions without having to worry about it. We are working to structure the network such that hostile behaviour like invasive privacy practices can be rooted out directly by users.\n",
                       "textStyle": {}
@@ -1816,21 +1816,21 @@
               }
             },
             {
-              "startIndex": 19519,
-              "endIndex": 19819,
+              "startIndex": 19523,
+              "endIndex": 19823,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 19519,
-                    "endIndex": 19622,
+                    "startIndex": 19523,
+                    "endIndex": 19626,
                     "textRun": {
                       "content": "Instead of targeting symptoms of an unhealthy information environment for instance with fact checking, ",
                       "textStyle": {}
                     }
                   },
                   {
-                    "startIndex": 19622,
-                    "endIndex": 19683,
+                    "startIndex": 19626,
+                    "endIndex": 19687,
                     "textRun": {
                       "content": "we address the root causes of disinformation notably through ",
                       "textStyle": {
@@ -1839,8 +1839,8 @@
                     }
                   },
                   {
-                    "startIndex": 19683,
-                    "endIndex": 19704,
+                    "startIndex": 19687,
+                    "endIndex": 19708,
                     "textRun": {
                       "content": "algorithmic pluralism",
                       "textStyle": {
@@ -1862,8 +1862,8 @@
                     }
                   },
                   {
-                    "startIndex": 19704,
-                    "endIndex": 19819,
+                    "startIndex": 19708,
+                    "endIndex": 19823,
                     "textRun": {
                       "content": ". We are bringing to social media the same resilience and diversity that sustains the traditional media ecosystem.\n",
                       "textStyle": {}
@@ -1892,13 +1892,13 @@
               }
             },
             {
-              "startIndex": 19819,
-              "endIndex": 19832,
+              "startIndex": 19823,
+              "endIndex": 19836,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 19819,
-                    "endIndex": 19832,
+                    "startIndex": 19823,
+                    "endIndex": 19836,
                     "textRun": {
                       "content": "Deliverables\n",
                       "textStyle": {}
@@ -1907,19 +1907,19 @@
                 ],
                 "paragraphStyle": {
                   "headingId": "h.lyaanjw6nuqb",
-                  "namedStyleType": "HEADING_2",
+                  "namedStyleType": "HEADING_1",
                   "direction": "LEFT_TO_RIGHT"
                 }
               }
             },
             {
-              "startIndex": 19832,
-              "endIndex": 19865,
+              "startIndex": 19836,
+              "endIndex": 19869,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 19832,
-                    "endIndex": 19865,
+                    "startIndex": 19836,
+                    "endIndex": 19869,
                     "textRun": {
                       "content": "European AT Proto Infrastructure\n",
                       "textStyle": {}
@@ -1928,19 +1928,19 @@
                 ],
                 "paragraphStyle": {
                   "headingId": "h.lotxqg7qmb3k",
-                  "namedStyleType": "HEADING_3",
+                  "namedStyleType": "HEADING_2",
                   "direction": "LEFT_TO_RIGHT"
                 }
               }
             },
             {
-              "startIndex": 19865,
-              "endIndex": 20398,
+              "startIndex": 19869,
+              "endIndex": 20402,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 19865,
-                    "endIndex": 20398,
+                    "startIndex": 19869,
+                    "endIndex": 20402,
                     "textRun": {
                       "content": "We are working to operate social media infrastructure in Europe using AT Proto. Our goal is to ensure that social media in Europe cannot be disrupted at the whim of hostile foreign companies, to make social media operate according to European laws, and to support emerging novel social products that can be built quickly and easily because they don’t need to reinvent core infrastructure. Just as unbundling telecommunications infrastructure sparked innovation, the unbundling of social platforms is creating space for new entrants.\n",
                       "textStyle": {}
@@ -1954,21 +1954,21 @@
               }
             },
             {
-              "startIndex": 20398,
-              "endIndex": 20683,
+              "startIndex": 20402,
+              "endIndex": 20687,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 20398,
-                    "endIndex": 20400,
+                    "startIndex": 20402,
+                    "endIndex": 20404,
                     "textRun": {
                       "content": "A ",
                       "textStyle": {}
                     }
                   },
                   {
-                    "startIndex": 20400,
-                    "endIndex": 20426,
+                    "startIndex": 20404,
+                    "endIndex": 20430,
                     "textRun": {
                       "content": "Personal Data Server (PDS)",
                       "textStyle": {
@@ -1977,8 +1977,8 @@
                     }
                   },
                   {
-                    "startIndex": 20426,
-                    "endIndex": 20683,
+                    "startIndex": 20430,
+                    "endIndex": 20687,
                     "textRun": {
                       "content": " is a system that stores a person’s data in a way that guarantees that they can always take it to another PDS without losing their identity or followers. We will set up a European PDS provider and a service to help people move between PDS providers easily.\n",
                       "textStyle": {}
@@ -2007,21 +2007,21 @@
               }
             },
             {
-              "startIndex": 20683,
-              "endIndex": 20961,
+              "startIndex": 20687,
+              "endIndex": 20965,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 20683,
-                    "endIndex": 20685,
+                    "startIndex": 20687,
+                    "endIndex": 20689,
                     "textRun": {
                       "content": "A ",
                       "textStyle": {}
                     }
                   },
                   {
-                    "startIndex": 20685,
-                    "endIndex": 20690,
+                    "startIndex": 20689,
+                    "endIndex": 20694,
                     "textRun": {
                       "content": "relay",
                       "textStyle": {
@@ -2030,8 +2030,8 @@
                     }
                   },
                   {
-                    "startIndex": 20690,
-                    "endIndex": 20961,
+                    "startIndex": 20694,
+                    "endIndex": 20965,
                     "textRun": {
                       "content": " is a system that asks PDSs for the latest posts, likes, etc. that people have made and produces a firehose of events for that data which can be consumed for instance by feed generators, content moderation systems, apps, etc. We will set up and operate a European relay.\n",
                       "textStyle": {}
@@ -2060,21 +2060,21 @@
               }
             },
             {
-              "startIndex": 20961,
-              "endIndex": 21206,
+              "startIndex": 20965,
+              "endIndex": 21210,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 20961,
-                    "endIndex": 20965,
+                    "startIndex": 20965,
+                    "endIndex": 20969,
                     "textRun": {
                       "content": "The ",
                       "textStyle": {}
                     }
                   },
                   {
-                    "startIndex": 20965,
-                    "endIndex": 20978,
+                    "startIndex": 20969,
+                    "endIndex": 20982,
                     "textRun": {
                       "content": "PLC Directory",
                       "textStyle": {
@@ -2083,8 +2083,8 @@
                     }
                   },
                   {
-                    "startIndex": 20978,
-                    "endIndex": 21206,
+                    "startIndex": 20982,
+                    "endIndex": 21210,
                     "textRun": {
                       "content": " is the primary system used for people to register their identity with AT Proto. There can be only one PLC Directory (to guarantee unique identifiers). We will either host or take part in shared governance of the PLC Directory.\n",
                       "textStyle": {}
@@ -2113,21 +2113,21 @@
               }
             },
             {
-              "startIndex": 21206,
-              "endIndex": 21418,
+              "startIndex": 21210,
+              "endIndex": 21422,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 21206,
-                    "endIndex": 21209,
+                    "startIndex": 21210,
+                    "endIndex": 21213,
                     "textRun": {
                       "content": "An ",
                       "textStyle": {}
                     }
                   },
                   {
-                    "startIndex": 21209,
-                    "endIndex": 21214,
+                    "startIndex": 21213,
+                    "endIndex": 21218,
                     "textRun": {
                       "content": "index",
                       "textStyle": {
@@ -2136,8 +2136,8 @@
                     }
                   },
                   {
-                    "startIndex": 21214,
-                    "endIndex": 21418,
+                    "startIndex": 21218,
+                    "endIndex": 21422,
                     "textRun": {
                       "content": " makes the content of an AT network searchable, so that people, posts, or the like can be found. We will work with a search partner (perhaps the European Search Perspective) in order to operate an index.\n",
                       "textStyle": {}
@@ -2166,13 +2166,13 @@
               }
             },
             {
-              "startIndex": 21418,
-              "endIndex": 21445,
+              "startIndex": 21422,
+              "endIndex": 21449,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 21418,
-                    "endIndex": 21445,
+                    "startIndex": 21422,
+                    "endIndex": 21449,
                     "textRun": {
                       "content": "Commons Content Moderation\n",
                       "textStyle": {}
@@ -2181,19 +2181,19 @@
                 ],
                 "paragraphStyle": {
                   "headingId": "h.nnrndx1s76n5",
-                  "namedStyleType": "HEADING_3",
+                  "namedStyleType": "HEADING_2",
                   "direction": "LEFT_TO_RIGHT"
                 }
               }
             },
             {
-              "startIndex": 21445,
-              "endIndex": 21823,
+              "startIndex": 21449,
+              "endIndex": 21827,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 21445,
-                    "endIndex": 21823,
+                    "startIndex": 21449,
+                    "endIndex": 21827,
                     "textRun": {
                       "content": "Europe urgently needs its own stack to preserve information integrity, built with public interest values and legal compliance in mind. To guarantee robust defense against manipulations and foreign interference, integrity standards need to be rooted in the design of the technology. We think of information trust and integrity as foundational design elements, not afterthoughts.\n",
                       "textStyle": {}
@@ -2207,21 +2207,21 @@
               }
             },
             {
-              "startIndex": 21823,
-              "endIndex": 21936,
+              "startIndex": 21827,
+              "endIndex": 21940,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 21823,
-                    "endIndex": 21898,
+                    "startIndex": 21827,
+                    "endIndex": 21902,
                     "textRun": {
                       "content": "We are thus seeking to build a foundational component for the Eurostack: a ",
                       "textStyle": {}
                     }
                   },
                   {
-                    "startIndex": 21898,
-                    "endIndex": 21933,
+                    "startIndex": 21902,
+                    "endIndex": 21937,
                     "textRun": {
                       "content": "Commons Content Moderation (CoCoMo)",
                       "textStyle": {
@@ -2230,8 +2230,8 @@
                     }
                   },
                   {
-                    "startIndex": 21933,
-                    "endIndex": 21936,
+                    "startIndex": 21937,
+                    "endIndex": 21940,
                     "textRun": {
                       "content": ". \n",
                       "textStyle": {}
@@ -2245,13 +2245,13 @@
               }
             },
             {
-              "startIndex": 21936,
-              "endIndex": 22390,
+              "startIndex": 21940,
+              "endIndex": 22394,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 21936,
-                    "endIndex": 22390,
+                    "startIndex": 21940,
+                    "endIndex": 22394,
                     "textRun": {
                       "content": "A CoCoMo will provide a shared moderation system for developers and startups interested in building applications on top of AT Proto, encoding regulatory standards and simplifying and reducing the cost of managing the moderation obligations of technology platforms. It will also ensure that moderation processes happen in accountable and sovereign infrastructures. This system makes it possible to deliver both regulation and innovation at the same time.\n",
                       "textStyle": {}
@@ -2265,13 +2265,13 @@
               }
             },
             {
-              "startIndex": 22390,
-              "endIndex": 22407,
+              "startIndex": 22394,
+              "endIndex": 22411,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 22390,
-                    "endIndex": 22407,
+                    "startIndex": 22394,
+                    "endIndex": 22411,
                     "textRun": {
                       "content": "The CoCoMo will:\n",
                       "textStyle": {}
@@ -2285,13 +2285,13 @@
               }
             },
             {
-              "startIndex": 22407,
-              "endIndex": 22487,
+              "startIndex": 22411,
+              "endIndex": 22491,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 22407,
-                    "endIndex": 22487,
+                    "startIndex": 22411,
+                    "endIndex": 22491,
                     "textRun": {
                       "content": "Provide a modular and transparent moderation relay for decentralised platforms.\n",
                       "textStyle": {}
@@ -2320,13 +2320,13 @@
               }
             },
             {
-              "startIndex": 22487,
-              "endIndex": 22600,
+              "startIndex": 22491,
+              "endIndex": 22604,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 22487,
-                    "endIndex": 22600,
+                    "startIndex": 22491,
+                    "endIndex": 22604,
                     "textRun": {
                       "content": "Feature label-based filtering, geo-specific content controls, audit logs, user appeals, and policy transparency.\n",
                       "textStyle": {}
@@ -2352,13 +2352,13 @@
               }
             },
             {
-              "startIndex": 22600,
-              "endIndex": 22686,
+              "startIndex": 22604,
+              "endIndex": 22690,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 22600,
-                    "endIndex": 22686,
+                    "startIndex": 22604,
+                    "endIndex": 22690,
                     "textRun": {
                       "content": "Support apps, app views, and smaller operators by design, without centralizing power.\n",
                       "textStyle": {}
@@ -2388,21 +2388,21 @@
               }
             },
             {
-              "startIndex": 22686,
-              "endIndex": 22784,
+              "startIndex": 22690,
+              "endIndex": 22788,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 22686,
-                    "endIndex": 22705,
+                    "startIndex": 22690,
+                    "endIndex": 22709,
                     "textRun": {
                       "content": "Be field-tested on ",
                       "textStyle": {}
                     }
                   },
                   {
-                    "startIndex": 22705,
-                    "endIndex": 22712,
+                    "startIndex": 22709,
+                    "endIndex": 22716,
                     "textRun": {
                       "content": "Flashes",
                       "textStyle": {
@@ -2423,8 +2423,8 @@
                     }
                   },
                   {
-                    "startIndex": 22712,
-                    "endIndex": 22784,
+                    "startIndex": 22716,
+                    "endIndex": 22788,
                     "textRun": {
                       "content": ", a European social media app that is pioneering new uses for AT Proto.\n",
                       "textStyle": {}
@@ -2450,21 +2450,21 @@
               }
             },
             {
-              "startIndex": 22784,
-              "endIndex": 23101,
+              "startIndex": 22788,
+              "endIndex": 23105,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 22784,
-                    "endIndex": 22968,
+                    "startIndex": 22788,
+                    "endIndex": 22972,
                     "textRun": {
                       "content": "This commons-based and interoperable approach is aligned with emerging trust and safety and moderation practices. It complements and builds upon projects such as those of our partners ",
                       "textStyle": {}
                     }
                   },
                   {
-                    "startIndex": 22968,
-                    "endIndex": 22973,
+                    "startIndex": 22972,
+                    "endIndex": 22977,
                     "textRun": {
                       "content": "ROOST",
                       "textStyle": {
@@ -2485,8 +2485,8 @@
                     }
                   },
                   {
-                    "startIndex": 22973,
-                    "endIndex": 23101,
+                    "startIndex": 22977,
+                    "endIndex": 23105,
                     "textRun": {
                       "content": ", a user safety initiative also joined by most current industry leaders, and launched at the recent AI Action Summit in Paris. \n",
                       "textStyle": {}
@@ -2500,13 +2500,13 @@
               }
             },
             {
-              "startIndex": 23101,
-              "endIndex": 23246,
+              "startIndex": 23105,
+              "endIndex": 23250,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 23101,
-                    "endIndex": 23246,
+                    "startIndex": 23105,
+                    "endIndex": 23250,
                     "textRun": {
                       "content": "Building a CoCoMo for Eurosky will both support the integrity of our information ecosystem, and support entrepreneurial opportunities in Europe.\n",
                       "textStyle": {}
@@ -2520,13 +2520,13 @@
               }
             },
             {
-              "startIndex": 23246,
-              "endIndex": 23257,
+              "startIndex": 23250,
+              "endIndex": 23261,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 23246,
-                    "endIndex": 23257,
+                    "startIndex": 23250,
+                    "endIndex": 23261,
                     "textRun": {
                       "content": "Governance\n",
                       "textStyle": {}
@@ -2535,19 +2535,19 @@
                 ],
                 "paragraphStyle": {
                   "headingId": "h.podg5zeaegx4",
-                  "namedStyleType": "HEADING_3",
+                  "namedStyleType": "HEADING_2",
                   "direction": "LEFT_TO_RIGHT"
                 }
               }
             },
             {
-              "startIndex": 23257,
-              "endIndex": 23524,
+              "startIndex": 23261,
+              "endIndex": 23528,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 23257,
-                    "endIndex": 23524,
+                    "startIndex": 23261,
+                    "endIndex": 23528,
                     "textRun": {
                       "content": "Social media forms complex systems that require substantial governance at multiple levels. We do not propose to single-handedly govern the entire system as that would just reproduce familiar dynamics of power concentration, but we can host, organise, and contribute.\n",
                       "textStyle": {}
@@ -2561,21 +2561,21 @@
               }
             },
             {
-              "startIndex": 23524,
-              "endIndex": 23757,
+              "startIndex": 23528,
+              "endIndex": 23761,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 23524,
-                    "endIndex": 23569,
+                    "startIndex": 23528,
+                    "endIndex": 23573,
                     "textRun": {
                       "content": "Keeping AT Proto open requires well-governed ",
                       "textStyle": {}
                     }
                   },
                   {
-                    "startIndex": 23569,
-                    "endIndex": 23578,
+                    "startIndex": 23573,
+                    "endIndex": 23582,
                     "textRun": {
                       "content": "standards",
                       "textStyle": {
@@ -2584,16 +2584,16 @@
                     }
                   },
                   {
-                    "startIndex": 23578,
-                    "endIndex": 23631,
+                    "startIndex": 23582,
+                    "endIndex": 23635,
                     "textRun": {
                       "content": " to ensure that it is interoperable and usable by all",
                       "textStyle": {}
                     }
                   },
                   {
-                    "startIndex": 23631,
-                    "endIndex": 23757,
+                    "startIndex": 23635,
+                    "endIndex": 23761,
                     "textRun": {
                       "content": ". We will either host the standards process or support standard setting, either in the community or in a formal organisation.\n",
                       "textStyle": {}
@@ -2622,21 +2622,21 @@
               }
             },
             {
-              "startIndex": 23757,
-              "endIndex": 23951,
+              "startIndex": 23761,
+              "endIndex": 23955,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 23757,
-                    "endIndex": 23776,
+                    "startIndex": 23761,
+                    "endIndex": 23780,
                     "textRun": {
                       "content": "We will develop an ",
                       "textStyle": {}
                     }
                   },
                   {
-                    "startIndex": 23776,
-                    "endIndex": 23787,
+                    "startIndex": 23780,
+                    "endIndex": 23791,
                     "textRun": {
                       "content": "AT Covenant",
                       "textStyle": {
@@ -2645,8 +2645,8 @@
                     }
                   },
                   {
-                    "startIndex": 23787,
-                    "endIndex": 23951,
+                    "startIndex": 23791,
+                    "endIndex": 23955,
                     "textRun": {
                       "content": " and the corresponding institutional structures to ensure that participants in the AT network are well-behaved, for instance that PDSs aren’t used for data mining.\n",
                       "textStyle": {}
@@ -2673,21 +2673,21 @@
               }
             },
             {
-              "startIndex": 23951,
-              "endIndex": 24147,
+              "startIndex": 23955,
+              "endIndex": 24151,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 23951,
-                    "endIndex": 23993,
+                    "startIndex": 23955,
+                    "endIndex": 23997,
                     "textRun": {
                       "content": "We will help support the governance of AT ",
                       "textStyle": {}
                     }
                   },
                   {
-                    "startIndex": 23993,
-                    "endIndex": 24013,
+                    "startIndex": 23997,
+                    "endIndex": 24017,
                     "textRun": {
                       "content": "open source projects",
                       "textStyle": {
@@ -2696,8 +2696,8 @@
                     }
                   },
                   {
-                    "startIndex": 24013,
-                    "endIndex": 24147,
+                    "startIndex": 24017,
+                    "endIndex": 24151,
                     "textRun": {
                       "content": ", notably working to ensure a strong feedback loop with the standards process, community involvement, and that developers are funded.\n",
                       "textStyle": {}
@@ -2726,21 +2726,21 @@
               }
             },
             {
-              "startIndex": 24147,
-              "endIndex": 24329,
+              "startIndex": 24151,
+              "endIndex": 24333,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 24147,
-                    "endIndex": 24163,
+                    "startIndex": 24151,
+                    "endIndex": 24167,
                     "textRun": {
                       "content": "We will support ",
                       "textStyle": {}
                     }
                   },
                   {
-                    "startIndex": 24163,
-                    "endIndex": 24211,
+                    "startIndex": 24167,
+                    "endIndex": 24215,
                     "textRun": {
                       "content": "integration between AT Proto and other protocols",
                       "textStyle": {
@@ -2749,8 +2749,8 @@
                     }
                   },
                   {
-                    "startIndex": 24211,
-                    "endIndex": 24329,
+                    "startIndex": 24215,
+                    "endIndex": 24333,
                     "textRun": {
                       "content": " (specifically ActivityPub) so as to work in the direction of a universal standardised protocol that serves everyone.\n",
                       "textStyle": {}
@@ -2779,21 +2779,21 @@
               }
             },
             {
-              "startIndex": 24329,
-              "endIndex": 24443,
+              "startIndex": 24333,
+              "endIndex": 24447,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 24329,
-                    "endIndex": 24345,
+                    "startIndex": 24333,
+                    "endIndex": 24349,
                     "textRun": {
                       "content": "We will develop ",
                       "textStyle": {}
                     }
                   },
                   {
-                    "startIndex": 24345,
-                    "endIndex": 24407,
+                    "startIndex": 24349,
+                    "endIndex": 24411,
                     "textRun": {
                       "content": "sustainability models for all components of the infrastructure",
                       "textStyle": {
@@ -2802,8 +2802,8 @@
                     }
                   },
                   {
-                    "startIndex": 24407,
-                    "endIndex": 24443,
+                    "startIndex": 24411,
+                    "endIndex": 24447,
                     "textRun": {
                       "content": ", to ensure that it is sustainable.\n",
                       "textStyle": {}
@@ -2832,13 +2832,13 @@
               }
             },
             {
-              "startIndex": 24443,
-              "endIndex": 24453,
+              "startIndex": 24447,
+              "endIndex": 24457,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 24443,
-                    "endIndex": 24453,
+                    "startIndex": 24447,
+                    "endIndex": 24457,
                     "textRun": {
                       "content": "Ecosystem\n",
                       "textStyle": {}
@@ -2847,19 +2847,19 @@
                 ],
                 "paragraphStyle": {
                   "headingId": "h.27jtlyx7kze2",
-                  "namedStyleType": "HEADING_3",
+                  "namedStyleType": "HEADING_2",
                   "direction": "LEFT_TO_RIGHT"
                 }
               }
             },
             {
-              "startIndex": 24453,
-              "endIndex": 24540,
+              "startIndex": 24457,
+              "endIndex": 24544,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 24453,
-                    "endIndex": 24540,
+                    "startIndex": 24457,
+                    "endIndex": 24544,
                     "textRun": {
                       "content": "Infrastructure is successful when it supports a thriving ecosystem of downstream uses.\n",
                       "textStyle": {}
@@ -2873,13 +2873,13 @@
               }
             },
             {
-              "startIndex": 24540,
-              "endIndex": 24634,
+              "startIndex": 24544,
+              "endIndex": 24638,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 24540,
-                    "endIndex": 24634,
+                    "startIndex": 24544,
+                    "endIndex": 24638,
                     "textRun": {
                       "content": "We will support emerging novel social products and startups operating on this infrastructure.\n",
                       "textStyle": {}
@@ -2908,13 +2908,13 @@
               }
             },
             {
-              "startIndex": 24634,
-              "endIndex": 24757,
+              "startIndex": 24638,
+              "endIndex": 24761,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 24634,
-                    "endIndex": 24757,
+                    "startIndex": 24638,
+                    "endIndex": 24761,
                     "textRun": {
                       "content": "We will establish collaborations, for instance with media, to grow interest and develop a healthy information environment.\n",
                       "textStyle": {}
@@ -2943,13 +2943,13 @@
               }
             },
             {
-              "startIndex": 24757,
-              "endIndex": 24840,
+              "startIndex": 24761,
+              "endIndex": 24844,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 24757,
-                    "endIndex": 24840,
+                    "startIndex": 24761,
+                    "endIndex": 24844,
                     "textRun": {
                       "content": "We will partner to develop feeds and ensure the durable pluralism of the platform.\n",
                       "textStyle": {}
@@ -2978,13 +2978,13 @@
               }
             },
             {
-              "startIndex": 24840,
-              "endIndex": 24857,
+              "startIndex": 24844,
+              "endIndex": 24861,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 24840,
-                    "endIndex": 24857,
+                    "startIndex": 24844,
+                    "endIndex": 24861,
                     "textRun": {
                       "content": "Conditionalities\n",
                       "textStyle": {}
@@ -2993,19 +2993,19 @@
                 ],
                 "paragraphStyle": {
                   "headingId": "h.wekfp93ef9km",
-                  "namedStyleType": "HEADING_3",
+                  "namedStyleType": "HEADING_2",
                   "direction": "LEFT_TO_RIGHT"
                 }
               }
             },
             {
-              "startIndex": 24857,
-              "endIndex": 24984,
+              "startIndex": 24861,
+              "endIndex": 24988,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 24857,
-                    "endIndex": 24984,
+                    "startIndex": 24861,
+                    "endIndex": 24988,
                     "textRun": {
                       "content": "On the assumption that this system will receive public funding, we are elaborating conditionalities to match. At a high level:\n",
                       "textStyle": {}
@@ -3019,13 +3019,13 @@
               }
             },
             {
-              "startIndex": 24984,
-              "endIndex": 25122,
+              "startIndex": 24988,
+              "endIndex": 25126,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 24984,
-                    "endIndex": 25122,
+                    "startIndex": 24988,
+                    "endIndex": 25126,
                     "textRun": {
                       "content": "High level of privacy protection. People remain in charge of their identity and data. No PDS or Relay can be used for profiling purposes.\n",
                       "textStyle": {}
@@ -3054,13 +3054,13 @@
               }
             },
             {
-              "startIndex": 25122,
-              "endIndex": 25232,
+              "startIndex": 25126,
+              "endIndex": 25236,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 25122,
-                    "endIndex": 25232,
+                    "startIndex": 25126,
+                    "endIndex": 25236,
                     "textRun": {
                       "content": "Public interest. The system will keep operating in the public interest and it will not be possible to buy it.\n",
                       "textStyle": {}
@@ -3089,13 +3089,13 @@
               }
             },
             {
-              "startIndex": 25232,
-              "endIndex": 25371,
+              "startIndex": 25236,
+              "endIndex": 25375,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 25232,
-                    "endIndex": 25371,
+                    "startIndex": 25236,
+                    "endIndex": 25375,
                     "textRun": {
                       "content": "Healthy algorithms. To the extent that we develop feeds or recommendations (which may not happen), they will not involve toxic algorithms.\n",
                       "textStyle": {}
@@ -3124,13 +3124,13 @@
               }
             },
             {
-              "startIndex": 25371,
-              "endIndex": 25430,
+              "startIndex": 25375,
+              "endIndex": 25434,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 25371,
-                    "endIndex": 25430,
+                    "startIndex": 25375,
+                    "endIndex": 25434,
                     "textRun": {
                       "content": "Credible oversight involving amongst others civil society.\n",
                       "textStyle": {}
@@ -3159,21 +3159,21 @@
               }
             },
             {
-              "startIndex": 25430,
-              "endIndex": 25617,
+              "startIndex": 25434,
+              "endIndex": 25621,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 25430,
-                    "endIndex": 25616,
+                    "startIndex": 25434,
+                    "endIndex": 25620,
                     "textRun": {
                       "content": "Compliance with European law and respect for fundamental rights. We also endeavour to create as much subsidiarity as possible so that Member state laws can apply too in their own sphere.",
                       "textStyle": {}
                     }
                   },
                   {
-                    "startIndex": 25616,
-                    "endIndex": 25617,
+                    "startIndex": 25620,
+                    "endIndex": 25621,
                     "textRun": {
                       "content": "\n",
                       "textStyle": {
@@ -3204,22 +3204,22 @@
               }
             },
             {
-              "startIndex": 25617,
+              "startIndex": 25621,
               "endIndex": 25628,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 25617,
+                    "startIndex": 25621,
                     "endIndex": 25628,
                     "textRun": {
-                      "content": "Appendices\n",
+                      "content": "Beyond\n",
                       "textStyle": {}
                     }
                   }
                 ],
                 "paragraphStyle": {
                   "headingId": "h.78sob8hq08f",
-                  "namedStyleType": "HEADING_2",
+                  "namedStyleType": "HEADING_1",
                   "direction": "LEFT_TO_RIGHT",
                   "spaceBelow": {
                     "unit": "PT"
@@ -3243,7 +3243,7 @@
                 ],
                 "paragraphStyle": {
                   "headingId": "h.im0susi6bu9o",
-                  "namedStyleType": "HEADING_3",
+                  "namedStyleType": "HEADING_2",
                   "direction": "LEFT_TO_RIGHT"
                 }
               }
@@ -3330,61 +3330,12 @@
             },
             {
               "startIndex": 27328,
-              "endIndex": 27352,
+              "endIndex": 27351,
               "paragraph": {
                 "elements": [
                   {
                     "startIndex": 27328,
-                    "endIndex": 27352,
-                    "textRun": {
-                      "content": "☠️ Example Applications\n",
-                      "textStyle": {}
-                    }
-                  }
-                ],
-                "paragraphStyle": {
-                  "headingId": "h.1peco235ovu4",
-                  "namedStyleType": "HEADING_3",
-                  "direction": "LEFT_TO_RIGHT"
-                }
-              }
-            },
-            {
-              "startIndex": 27352,
-              "endIndex": 27376,
-              "paragraph": {
-                "elements": [
-                  {
-                    "startIndex": 27352,
-                    "endIndex": 27376,
-                    "textRun": {
-                      "content": "This needs filling out.\n",
-                      "textStyle": {
-                        "foregroundColor": {
-                          "color": {
-                            "rgbColor": {
-                              "red": 1
-                            }
-                          }
-                        }
-                      }
-                    }
-                  }
-                ],
-                "paragraphStyle": {
-                  "namedStyleType": "NORMAL_TEXT",
-                  "direction": "LEFT_TO_RIGHT"
-                }
-              }
-            },
-            {
-              "startIndex": 27376,
-              "endIndex": 27399,
-              "paragraph": {
-                "elements": [
-                  {
-                    "startIndex": 27376,
-                    "endIndex": 27399,
+                    "endIndex": 27351,
                     "textRun": {
                       "content": "Relevant Organisations\n",
                       "textStyle": {}
@@ -3393,19 +3344,19 @@
                 ],
                 "paragraphStyle": {
                   "headingId": "h.fxgde8rs38a0",
-                  "namedStyleType": "HEADING_3",
+                  "namedStyleType": "HEADING_2",
                   "direction": "LEFT_TO_RIGHT"
                 }
               }
             },
             {
-              "startIndex": 27399,
-              "endIndex": 27507,
+              "startIndex": 27351,
+              "endIndex": 27459,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 27399,
-                    "endIndex": 27507,
+                    "startIndex": 27351,
+                    "endIndex": 27459,
                     "textRun": {
                       "content": "Several overlapping organisations are relevant to this work in one way or another. Here is how they relate.\n",
                       "textStyle": {}
@@ -3419,21 +3370,21 @@
               }
             },
             {
-              "startIndex": 27507,
-              "endIndex": 27804,
+              "startIndex": 27459,
+              "endIndex": 27756,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 27507,
-                    "endIndex": 27511,
+                    "startIndex": 27459,
+                    "endIndex": 27463,
                     "textRun": {
                       "content": "The ",
                       "textStyle": {}
                     }
                   },
                   {
-                    "startIndex": 27511,
-                    "endIndex": 27528,
+                    "startIndex": 27463,
+                    "endIndex": 27480,
                     "textRun": {
                       "content": "EuroStack project",
                       "textStyle": {
@@ -3455,16 +3406,16 @@
                     }
                   },
                   {
-                    "startIndex": 27528,
-                    "endIndex": 27671,
+                    "startIndex": 27480,
+                    "endIndex": 27623,
                     "textRun": {
                       "content": " is a big tent alliance of people and businesses in Europe who push for greater digital sovereignty across digital infrastructure (see notably ",
                       "textStyle": {}
                     }
                   },
                   {
-                    "startIndex": 27671,
-                    "endIndex": 27680,
+                    "startIndex": 27623,
+                    "endIndex": 27632,
                     "textRun": {
                       "content": "the pitch",
                       "textStyle": {
@@ -3485,16 +3436,16 @@
                     }
                   },
                   {
-                    "startIndex": 27680,
-                    "endIndex": 27686,
+                    "startIndex": 27632,
+                    "endIndex": 27638,
                     "textRun": {
                       "content": ", the ",
                       "textStyle": {}
                     }
                   },
                   {
-                    "startIndex": 27686,
-                    "endIndex": 27716,
+                    "startIndex": 27638,
+                    "endIndex": 27668,
                     "textRun": {
                       "content": "support letter from businesses",
                       "textStyle": {
@@ -3515,16 +3466,16 @@
                     }
                   },
                   {
-                    "startIndex": 27716,
-                    "endIndex": 27726,
+                    "startIndex": 27668,
+                    "endIndex": 27678,
                     "textRun": {
                       "content": ", and the ",
                       "textStyle": {}
                     }
                   },
                   {
-                    "startIndex": 27726,
-                    "endIndex": 27745,
+                    "startIndex": 27678,
+                    "endIndex": 27697,
                     "textRun": {
                       "content": "European Way report",
                       "textStyle": {
@@ -3545,8 +3496,8 @@
                     }
                   },
                   {
-                    "startIndex": 27745,
-                    "endIndex": 27804,
+                    "startIndex": 27697,
+                    "endIndex": 27756,
                     "textRun": {
                       "content": "). EuroSky is the social media component of the EuroStack.\n",
                       "textStyle": {}
@@ -3575,13 +3526,13 @@
               }
             },
             {
-              "startIndex": 27804,
-              "endIndex": 28053,
+              "startIndex": 27756,
+              "endIndex": 28005,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 27804,
-                    "endIndex": 27816,
+                    "startIndex": 27756,
+                    "endIndex": 27768,
                     "textRun": {
                       "content": "FreeOurFeeds",
                       "textStyle": {
@@ -3603,8 +3554,8 @@
                     }
                   },
                   {
-                    "startIndex": 27816,
-                    "endIndex": 28053,
+                    "startIndex": 27768,
+                    "endIndex": 28005,
                     "textRun": {
                       "content": " is a campaign, led by some of the world’s top public-interest technologists, that aims to establish social media infrastructure that is sustainably free from billionaire control. EuroSky is the European concretisation of this campaign.\n",
                       "textStyle": {}
@@ -3633,13 +3584,13 @@
               }
             },
             {
-              "startIndex": 28053,
-              "endIndex": 28400,
+              "startIndex": 28005,
+              "endIndex": 28352,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 28053,
-                    "endIndex": 28061,
+                    "startIndex": 28005,
+                    "endIndex": 28013,
                     "textRun": {
                       "content": "IndieSky",
                       "textStyle": {
@@ -3661,8 +3612,8 @@
                     }
                   },
                   {
-                    "startIndex": 28061,
-                    "endIndex": 28400,
+                    "startIndex": 28013,
+                    "endIndex": 28352,
                     "textRun": {
                       "content": " is a collective of developers and technologists who are organising open source and open standards work around AT Proto so as to help guarantee the independence of the protocol with respect to Bluesky and to make it easy for people to deploy sovereign infrastructure anywhere in the world. EuroSky is collaborating directly with IndieSky.\n",
                       "textStyle": {}
@@ -3691,13 +3642,13 @@
               }
             },
             {
-              "startIndex": 28400,
-              "endIndex": 28508,
+              "startIndex": 28352,
+              "endIndex": 28460,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 28400,
-                    "endIndex": 28407,
+                    "startIndex": 28352,
+                    "endIndex": 28359,
                     "textRun": {
                       "content": "Flashes",
                       "textStyle": {
@@ -3719,8 +3670,8 @@
                     }
                   },
                   {
-                    "startIndex": 28407,
-                    "endIndex": 28508,
+                    "startIndex": 28359,
+                    "endIndex": 28460,
                     "textRun": {
                       "content": " is a European AT Proto application comparable to Instagram, and collaborates directly with EuroSky.\n",
                       "textStyle": {}
@@ -3749,13 +3700,13 @@
               }
             },
             {
-              "startIndex": 28508,
-              "endIndex": 28794,
+              "startIndex": 28460,
+              "endIndex": 28746,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 28508,
-                    "endIndex": 28515,
+                    "startIndex": 28460,
+                    "endIndex": 28467,
                     "textRun": {
                       "content": "Bluesky",
                       "textStyle": {
@@ -3777,8 +3728,8 @@
                     }
                   },
                   {
-                    "startIndex": 28515,
-                    "endIndex": 28794,
+                    "startIndex": 28467,
+                    "endIndex": 28746,
                     "textRun": {
                       "content": " is an American startup in the social media space and the inventors of AT Proto. They operate one application on top of AT Proto. While they have expressed enthusiastic support for independent AT infrastructure, they are not involved in EuroSky nor have they been invited to be.\n",
                       "textStyle": {}
@@ -3807,34 +3758,34 @@
               }
             },
             {
-              "startIndex": 28794,
-              "endIndex": 28802,
+              "startIndex": 28746,
+              "endIndex": 28759,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 28794,
-                    "endIndex": 28802,
+                    "startIndex": 28746,
+                    "endIndex": 28759,
                     "textRun": {
-                      "content": "Authors\n",
+                      "content": "Get In Touch\n",
                       "textStyle": {}
                     }
                   }
                 ],
                 "paragraphStyle": {
                   "headingId": "h.r9mdqyeq870v",
-                  "namedStyleType": "HEADING_3",
+                  "namedStyleType": "HEADING_2",
                   "direction": "LEFT_TO_RIGHT"
                 }
               }
             },
             {
-              "startIndex": 28802,
-              "endIndex": 28958,
+              "startIndex": 28759,
+              "endIndex": 28915,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 28802,
-                    "endIndex": 28814,
+                    "startIndex": 28759,
+                    "endIndex": 28771,
                     "textRun": {
                       "content": "Robin Berjon",
                       "textStyle": {
@@ -3855,16 +3806,16 @@
                     }
                   },
                   {
-                    "startIndex": 28814,
-                    "endIndex": 28816,
+                    "startIndex": 28771,
+                    "endIndex": 28773,
                     "textRun": {
                       "content": " (",
                       "textStyle": {}
                     }
                   },
                   {
-                    "startIndex": 28816,
-                    "endIndex": 28832,
+                    "startIndex": 28773,
+                    "endIndex": 28789,
                     "textRun": {
                       "content": "robin@berjon.com",
                       "textStyle": {
@@ -3885,8 +3836,8 @@
                     }
                   },
                   {
-                    "startIndex": 28832,
-                    "endIndex": 28958,
+                    "startIndex": 28789,
+                    "endIndex": 28915,
                     "textRun": {
                       "content": "). Principal, Supramundane Agency (Brussels); Deputy Director, IPFS Foundation; Custodian, Free Our Feeds; Fellow, Public AI.\n",
                       "textStyle": {}
@@ -3915,13 +3866,13 @@
               }
             },
             {
-              "startIndex": 28958,
-              "endIndex": 28959,
+              "startIndex": 28915,
+              "endIndex": 28916,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 28958,
-                    "endIndex": 28959,
+                    "startIndex": 28915,
+                    "endIndex": 28916,
                     "textRun": {
                       "content": "\n",
                       "textStyle": {}

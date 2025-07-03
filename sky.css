@@ -1,107 +1,139 @@
-/* inspiration: https://codepen.io/sathyaram/pen/KKKZqjM */
+
+@font-face {
+  font-family: "Josefin Sans";
+  src: url("JosefinSans-VariableFont_wght.ttf");
+  font-style: normal;
+}
+@font-face {
+  font-family: "Josefin Sans";
+  src: url("JosefinSans-Italic-VariableFont_wght.ttf");
+  font-style: italic;
+}
+@font-face {
+  font-family: "Mulish";
+  src: url("Mulish-VariableFont_wght.ttf");
+  font-style: normal;
+}
+@font-face {
+  font-family: "Mulish";
+  src: url("Mulish-Italic-VariableFont_wght.ttf");
+  font-style: italic;
+}
+
 :root {
-  --sunset-gradient: linear-gradient(135deg, #6c22bd, #8b25bb, #a52bb9, #bc34b7, #d040b5, #e645a5, #f55195, #ff6188, #ff796e, #ff965b, #f5b255, #e1cd60);
-  --night-gradient: linear-gradient(135deg, darkblue, yellow);
+  --page-width: 960px;
+  --brand-fam: 'Josefin Sans';
+  --header-fam: Mulish;
+  --body-fam: Mulish;
+  --highlight: #1A9BCC;
+  --night-skies: linear-gradient(to bottom, #1B2847, #126CB4);
+  --bright: #FAFF3B;
 }
 
-body {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  height: 100vh;
-  /* background-image: radial-gradient(circle at 50% 43%, #011027, #000110 70%); */
+* {
+  box-sizing: border-box;
+}
+html, body {
+  margin: 0;
+  padding: 0;
+  font-size: 16px;
+  font-family: var(--body-fam);
+}
+header, nav, main, footer, .hero p {
+  max-width: var(--page-width);
+  margin-left: auto;
+  margin-right: auto;
+}
+nav, main, footer, .hero p {
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+main, .hero p {
+  font-size: 1.1rem;
+  font-weight: 300;
+  line-height: 1.4;
+}
+.hero {
+  background: var(--night-skies);
+  border-bottom: solid 3px black;
+  border-top: solid 3px var(--bright);
+  margin-bottom: 4rem;
+  padding-bottom: 4rem;
+  padding-top: 4rem;
+}
+header {
+  padding-bottom: 4rem;
+}
+.hero p {
+  color: #fff;
+  font-size: 1.2rem;
+  /* font-weight: 400; */
+}
+a {
+  color: inherit;
+  text-decoration: underline;
+  text-decoration-thickness: 3px;
+  text-decoration-color: var(--highlight);
+  transition: text-decoration-thickness .2s;
+}
+a:hover {
+  text-decoration-thickness: 5px;
+}
+strong {
+  font-weight: bold;
+}
+header p.title, header p.subtitle {
+  font-family: var(--brand-fam);
+}
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--header-fam);
+}
+header p.title {
+  font-size: 8rem;
+  font-weight: 200;
+  margin: 0;
+  line-height: 1;
+  text-transform: lowercase;
+}
+header p.subtitle {
+  font-size: 1.6rem;
+  font-weight: 300;
+  color: #222;
+  margin: 0;
+  line-height: 1;
+  color: var(--bright);
+}
+:is(h1, h2, h3, h4, h5, h6) + p {
+  margin-top: 0;
+}
+h1 {
+  margin: 4rem 0 0 0;
+  line-height: 1.2;
+  font-family: Josefin Sans;
+  text-transform: lowercase;
+  font-size: 4rem;
+  font-weight: 200;
+}
+h2 {
+  font-size: inherit;
+  margin: 0;
+}
+img, video {
+  max-width: 100%;
+}
+blockquote {
+  clear: both;
+  border-left: 0.5rem solid var(--highlight);
+  margin-left: 0;
+  padding-left: 1rem;
+  font-style: italic;
 }
 
-.top {
-  position: relative;
-  background-image: var(--sunset-gradient);
-  width: 300px;
-  height: 60px;
-  transform: skewY(-15deg) rotateX(129deg);
-  border-radius: 50px;
-  z-index: 4;
-  border: 9px solid #161525;
+@media only screen and (max-width:750px) {
+  header p.title {
+    font-size: 6rem;
+  }
+  h1 {
+    line-height: 1;
+  }
 }
-.middle {
-  height: 40px;
-  background: #161525;
-  transform: skewY(-15deg) translateY(-37px);
-  z-index: 3;
-  border-bottom-left-radius: 50px;
-  border-bottom-right-radius: 31px;
-  position: relative;
-  box-shadow: 0 0 15px 0 black;
-}
-
-.bg {
-  transform-origin: center center;
-  background-image: linear-gradient(to right top, #6c22bd, #8b25bb, #a52bb9, #bc34b7, #d040b5, #e645a5, #f55195, #ff6188, #ff796e, #ff965b, #f5b255, #e1cd60);
-  width: 350px;
-  height: 200px;
-  z-index: -1;
-  filter: blur(26px);
-  position: absolute;
-  top: 31%;
-  left: 50%;
-  border-radius: 20px;
-  opacity: 7.1;
-  transform: scale(1.1) skewY(-15deg) translate(-46%, -44%);
-}
-
-.bg2 {
-  background-image: linear-gradient(to bottom, #5239d0, #3e4dd8, #285ddd, #0f6bdf, #0078e0, #0087e5, #0095e8, #00a2ea, #00b5ec, #00c5df, #00d3c6, #0edda4);
-  top: auto;
-  bottom: 29%;
-  width: 190px;
-  height: 250px;
-}
-/* .middle::after {
-  content: "";
-  width: 66px;
-  height: 25px;
-  background: #161525;
-  position: absolute;
-  bottom: -24px;
-  border-left: 4px solid #161525;
-  left: calc(50% + 18px);
-  transform: translateX(-50%);
-} */
-
-.stem {
-  height: 250px;
-  width: 80px;
-  left: calc(50% + 13px);
-  top: -52px;
-  position: relative;
-  transform: skewY(-15deg) translateX(-50%);
-  background: #161525;
-  z-index: 2;
-  box-shadow: 0 0 15px 0 black;
-  border-bottom-right-radius: 20px;
-}
-
-.top2 {
-  transform: rotate(-90deg) rotateX(50deg);
-  height: 50px;
-  background-image: linear-gradient(to left, #5239d0, #3e4dd8, #285ddd, #0f6bdf, #0078e0, #0087e5, #0095e8, #00a2ea, #00b5ec, #00c5df, #00d3c6, #0edda4);
-  left: -34px;
-  top: -223px;
-  z-index: 2;
-}
-
-
-/* .T:hover > .middle, .T:hover .stem, .T:hover .middle::after {
-  background: #b2ffff;
-}
-.T:hover .middle, .T:hover .stem, .T:hover .top:not(.top2) {
-  box-shadow: 0 0 10px 0 white, 0 0 20px 0 white, 0 0 30px 0 white;
-}
-.T:hover .top2 {
-  box-shadow: -4px -7px 13px 0 white;
-}
-.T:hover .top {
-  border: 9px solid #7ff9f9;
-}
-.T:hover .middle::after {
-  border-left: 4px solid #7ff9f9;
-} */
